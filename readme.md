@@ -6,7 +6,7 @@
 # Pirple.com Frontend Fundamentals
 
 
-This project is for practical purposes only. 
+This project is for learning purposes to obtain a "Frontend Fundamentals" course completion certificate. 
 
 Site published at https://gytiskupinas.github.io/Pirple/
 
