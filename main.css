@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;  
+}
+
+ol {
+
+    font-size: 25px;
+    color: white;
+}
+
+p {
+    font-size: 15px;
+}
+
+ul {
+    font-size: 35px;
+}
+
+h1 {
+    padding: 15px;
+    
+    
+    
+}
+
+h2 {
+    padding: 25px;
+    color: yellow;
+}
+
+/* https://www.w3schools.com/cssref/ */
