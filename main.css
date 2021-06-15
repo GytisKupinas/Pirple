@@ -2,30 +2,22 @@ body {
     background-color: blueviolet;  
 }
 
-ol {
-
-    font-size: 25px;
-    color: white;
+body > h1 {
+    text-align: center;
+    color: salmon;
 }
 
-p {
-    font-size: 15px;
+.unorderlist {
+    background-color: red;
+
 }
 
-ul {
-    font-size: 35px;
+.orderlist {
+    background-color: seagreen;
+    width: 600px;
+    margin-left: 300px;
 }
 
-h1 {
-    padding: 15px;
-    
-    
-    
+img {
+    width: 200px;
 }
-
-h2 {
-    padding: 25px;
-    color: yellow;
-}
-
-/* https://www.w3schools.com/cssref/ */
